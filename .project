@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>pedidos_user2</name>
+=======
+	<name>pedidos</name>
+>>>>>>> dba1b6e959153dae449f8ec4f1095cd89843fce6
 	<comment></comment>
 	<projects>
 	</projects>
